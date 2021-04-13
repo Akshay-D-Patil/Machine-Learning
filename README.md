@@ -6,7 +6,7 @@ This repository contains following ML, DL and RL projects implemented in Object 
 
 - Regression
 
-- Classification
+- Classification (Bank Loan dataset)
 
 - Neural Network
 
